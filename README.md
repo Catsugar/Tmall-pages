@@ -1,9 +1,9 @@
 # CSS-exercise---tmall
 CSS布局练习
 
->主页-------https://catsuger.github.io/CSS-exercise---tmall/#
+*主页-------https://catsuger.github.io/CSS-exercise---tmall/#
 <br/>
->备注：未做焦点图<br/>
+备注：未做焦点图<br/>
 >登录页-------https://catsuger.github.io/CSS-exercise---tmall/login.html<br/>
 >备注：未做登录功能<br/>
 >产品页-------https://catsuger.github.io/CSS-exercise---tmall/Product.html<br/>
