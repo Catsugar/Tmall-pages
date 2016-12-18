@@ -12,7 +12,7 @@ CSS布局练习
 备注：框架<br/>
 >产品评论页-------https://catsuger.github.io/CSS-exercise---tmall/comment.html<br/>
 备注：框架<br/>
-+购物车页-------https://catsuger.github.io/CSS-exercise---tmall/shopcar.html<br/>
+购物车页-------https://catsuger.github.io/CSS-exercise---tmall/shopcar.html<br/>
 备注：shopcar.html<br/>
-+筛选页-------https://catsuger.github.io/CSS-exercise---tmall/Select.html  <br/>
+筛选页-------https://catsuger.github.io/CSS-exercise---tmall/Select.html  <br/>
 备注：<br/>
