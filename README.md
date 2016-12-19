@@ -1,6 +1,5 @@
 # CSS-exercise---tmall
-CSS布局练习
-
+CSS静态页面练习
 >主页-------https://catsuger.github.io/CSS-exercise---tmall/#
 <br/>
 备注：未做焦点图<br/>
