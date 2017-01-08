@@ -12,7 +12,7 @@
 	    clearInterval(timer);// 鼠标划过整个容器时停止自动播放
     }	
 	wrap.onmouseout=function(){  
-	    timer=setInterval(autoplay,1000);
+	    timer=setInterval(autoplay,2000);
     }
 	for(var i=0;i<list.length;i++){
 		list[i].id=i;
@@ -26,7 +26,7 @@
 	    clearInterval(timer);
 		timer=null;
 	} 
-	timer=setInterval(autoplay,1000);
+	timer=setInterval(autoplay,2000);
 //*********************************************************主程序结束
 //****************定时函数
     function change(a){

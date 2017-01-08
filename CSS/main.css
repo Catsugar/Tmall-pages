@@ -338,6 +338,7 @@ body{
 
 }
 .FloorTitle h3{
+	text-align:left;
 	font:18px/22px "微软雅黑 Light";color:#000;
 	text-indent:5px;
 }
