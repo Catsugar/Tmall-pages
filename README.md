@@ -6,7 +6,7 @@ CSS静态页面练习
 备注：未做登录功能
 * [产品页](https://catsuger.github.io/CSS-exercise---tmall/Product.html)
 备注：未做焦点图
-* [产品详细页)[https://catsuger.github.io/CSS-exercise---tmall/detail.html)
+* [产品详细页](https://catsuger.github.io/CSS-exercise---tmall/detail.html)
 备注：框架
 * [产品评论](https://catsuger.github.io/CSS-exercise---tmall/comment.html)
 备注：框架
