@@ -1,12 +1,8 @@
-﻿window.onload=function(){
-    var wrap=document.getElementById('banner_bar'),
-        pic=document.getElementById('imgBox').getElementsByTagName('li'),
-        list=document.getElementById('imgNum').getElementsByTagName('a'),
-        index=0,
-        timer=null;
-	if(pic.length!=list.length){
-		return;
-	}
+﻿    var wrap=document.getElementById('banner_bar');
+    var pic=document.getElementById('imgBox').getElementsByTagName('li');
+    var list=document.getElementById('imgNum').getElementsByTagName('a');
+    var  index=0;
+    var timer=null;
 	//鼠标切换
 	wrap.onmouseover=function(){  
 	    clearInterval(timer);// 鼠标划过整个容器时停止自动播放
@@ -46,5 +42,4 @@
 		   }
            change(index);
    }
-}
 //*********************************************************副程序结束
